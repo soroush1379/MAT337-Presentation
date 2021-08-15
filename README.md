@@ -10,4 +10,4 @@
 
 * `temperature_graph`: A 3d graph solution to the heat equation on a unit disc, for an arbitrarily given boundary condition.
 
-`presentation.pdf`: The main presentation PDF.
+* `presentation.pdf`: The main presentation PDF.
